@@ -1,3 +1,4 @@
 lolcat
 fortune
 cowsay
+sl
