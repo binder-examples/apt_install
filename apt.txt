@@ -1,4 +1,2 @@
 lolcat
-fortune
 cowsay
-sl
